@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-<img style="float: right;" width="300" height="300" src="/_pages/images/profilephoto.png">
+<img style="float: right;" width="300" height="300" src="{{site.baseurl}}/_pages/images/profilephoto.png">
 
 
 
