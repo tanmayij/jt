@@ -6,4 +6,4 @@ author_profile: true
 comments: true
 ---
 
-You can find my CV, updated on 6th June, 2021, <a href="/assets/cv.pdf" target="_blank">here.</a>
+You can find my CV, updated on 6th June, 2021, <a href="https://tanmayij.github.io/jt/assets/cv.pdf" target="_blank">here.</a>
